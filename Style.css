@@ -1,0 +1,69 @@
+body {
+	background-color: #C5FFFD;
+
+
+
+}
+
+h1 {
+	color: #518C8B;
+	text-align: ;
+
+}
+
+p {
+
+	color:#2B4850; 
+}
+
+.endingtext {
+	color:#ffffff; 
+}
+
+li, a {
+
+	color: #2B4850;
+}
+
+.topnav {
+	background-color:#518C8B;
+	overflow: hidden;
+}
+
+.topnav a {
+	float:left;
+	color: whitesmoke;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.topnav a:hover {
+	background-color: #81c9c8;
+}
+
+.colorBand {
+	background: #518C8B;
+	height: 100px;
+	width: 100;
+
+}
+
+.topnav a.active {
+	background-color:#2b636e ;
+	color: white;
+}
+
+p, li, a, h1, h6, table {
+	font-family: "Ariel", ;
+}
+
+
+table{
+	color:#2B4850;
+}
+
+h5{
+	color:#FFFFFF;
+}
